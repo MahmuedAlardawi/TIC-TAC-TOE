@@ -1,2 +1,38 @@
 # TIC-TAC-TOE
 King AbdulAziz Universality - Computer Graphics (CPCS-391)
+
+## Overview
+
+This project delivers an enhanced version of the classic game Tic-Tac-Toe, developed to challenge players' strategic thinking and offer extended gameplay features. Using Pygame for window management and OpenGL for graphics rendering, this version introduces new dynamics to the traditional Tic-Tac-Toe gameplay.
+
+## Team Members
+
+- **Omar Samer Madani** - ID: 2136047
+- **Abdulelah Ali Al Turki** - ID: 2136110
+- **Ammar Abdulilah Bin Madi** - ID: 2135146
+- **Faisal Ahmed Balkhair** - ID: 2136412
+- **Mahmued Ahmed Al Ardawi** - ID: 2135209
+
+## Features
+
+- **Extended Gameplay:** Play continues until one player wins, promoting deeper strategic planning.
+- **Dynamic Board:** The game board allows only three consecutive symbols; adding a fourth symbol removes the first, continually altering the state of play.
+- **Strategic Depth:** Encourages players to think several moves ahead to outmaneuver their opponent.
+
+## Game Mechanics
+
+- **Game Board:** Utilizes a 3x3 grid where players place their marks (X or O).
+- **Winning Conditions:** Players aim to align three of their marks horizontally, vertically, or diagonally.
+- **Innovative Marker Management:** Introducing mechanics where additional markers can replace the earliest placed markers, refreshing the gameplay dynamics.
+
+## Installation Requirements
+
+To run this application, you must install:
+- **Python**: Ensure Python is installed on your machine.
+- **Pygame**: Needed for managing game windows and handling input.
+- **OpenGL**: Required for rendering game graphics.
+
+You can install the necessary libraries using pip:
+
+```bash
+pip install pygame PyOpenGL
