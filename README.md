@@ -5,14 +5,6 @@ King AbdulAziz Universality - Computer Graphics (CPCS-391)
 
 This project delivers an enhanced version of the classic game Tic-Tac-Toe, developed to challenge players' strategic thinking and offer extended gameplay features. Using Pygame for window management and OpenGL for graphics rendering, this version introduces new dynamics to the traditional Tic-Tac-Toe gameplay.
 
-## Team Members
-
-- **Omar Samer Madani** - ID: 2136047
-- **Abdulelah Ali Al Turki** - ID: 2136110
-- **Ammar Abdulilah Bin Madi** - ID: 2135146
-- **Faisal Ahmed Balkhair** - ID: 2136412
-- **Mahmued Ahmed Al Ardawi** - ID: 2135209
-
 ## Features
 
 - **Extended Gameplay:** Play continues until one player wins, promoting deeper strategic planning.
